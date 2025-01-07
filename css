@@ -1,0 +1,12 @@
+src/
+├── components/
+│   ├── AddStockForm.js
+│   ├── EditStockForm.js
+│   ├── PortfolioTable.js
+│   └── Dashboard.js
+├── services/
+│   └── api.js
+├── App.js
+├── index.js
+└── styles/
+    └── tailwind.css
